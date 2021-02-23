@@ -1,16 +1,8 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Privacy</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
-  </head>
-  <body>
-<h1><a href="/">Title & link to home</a></h1>
-    <div class="content">
-      {{ We understand the importance of your privacy. Therefore, we have established a Privacy Policy to explain how the Company treats your information and protects your privacy when you use this software or application.
+layout: page
+title: "Privacy"
+permalink: /privacy
+
+We understand the importance of your privacy. Therefore, we have established a Privacy Policy to explain how the Company treats your information and protects your privacy when you use this software or application.
 
 The QRPro app requests some sensitive permission to make the functions of application work properly. READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE, CAMERA, ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION, READ_CALENDAR, WRITE_CALENDAR, CALL_PHONE, READ_CONTACTS, CHANGE_WIFI_STATE, ACCESS_WIFI_STATE and other permissions needed for scanning/creating barcodes and QR codes.
 
@@ -23,12 +15,3 @@ IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, PLEASE DO NOT 
 Contact Us:
 
 If you have any questions about this Privacy Policy, please contact us: pettyprojects.help@gmail.com.
- }}
-    </div>
-    <footer>
-      <div class="container">
-        my footer
-      </div>
-    </footer>
-  </body>
-</html>
